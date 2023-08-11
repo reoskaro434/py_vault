@@ -1,0 +1,30 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "f1551d09998c153a7566972761874038bc4f45566e06ce55e7edafa29777179e"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_full_version": "3.11.4",
+            "python_version": "3.11"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "resanter-logger": {
+            "hashes": [
+                "sha256:5e9fb27293da0038bf8c648b632624c286516ee011802c968ae7aa303060b270",
+                "sha256:ffc63e1c24a1e4bc49aad1bfe68b7380e24897df28e6d567813a3eaeea0fbb16"
+            ],
+            "index": "pypi",
+            "version": "==0.0.5"
+        }
+    },
+    "develop": {}
+}
